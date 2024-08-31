@@ -3,7 +3,7 @@
 ### 코드를 복사합니다.
 
 ```bash
-npx degit miloupark/scss-setting .
+npx degit dnqls9875/SCSSProjectSettings .
 ```
 
 ### 설치순서
